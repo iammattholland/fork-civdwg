@@ -69,3 +69,6 @@ scripts/
 *~
 .vercel
 .env*.local
+
+# Claude Code agent config
+.agents/
